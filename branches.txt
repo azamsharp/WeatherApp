@@ -3,7 +3,7 @@ main/master
 
 Sung (responsive-UI) 
 
-Norton (database)
+Norton (displaying-weather)
 
 Cory (API-Integration)
 
