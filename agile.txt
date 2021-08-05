@@ -1,0 +1,50 @@
+Agile Software Development Methodology 
+
+- SCRUM 
+- Sprints 
+- Testing 
+- Pair Programming 
+- Automated Deployment 
+
+Developer 
+Project Manager 
+Business People (Domain Experts)
+
+Points = 1, 2, 3, 5, 8, 13, 21
+
+- The background color of the page should be green (1)
+- A user should be able to view their claim (3)
+- A user should be able to register on a website (8)
+- A user should be able to login to a website (5)
+- A user should be able to submit a claim (8)
+- A user should be able to pay their claim (13)
+
+Total Points: 38
+
+Planning Poker 
+
+Sprint (1/2/3) - 2 weeks 
+
+After two weeks: 
+- The background color of the page should be green (1)
+- A user should be able to view their claim (3)
+- A user should be able to register on a website (8)
+- A user should be able to login to a website (5)
+
+Total = 17
+
+After 6 weeks 
+Week 1 and Week 2 = 17 
+Week 3 and Week 4 = 20 
+Week 4 and Week 6 = 22
+
+Average = 17 + 20 + 22 / 2 = 18 VELOCITY 
+
+DEMO 
+
+Publish your website on a server 
+
+
+
+
+
